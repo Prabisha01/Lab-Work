@@ -5,3 +5,5 @@ c= int(input("enter a third number"))
 d = a + b +c
 
 print("sum of three number is: ", d)
+
+
