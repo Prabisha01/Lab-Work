@@ -1,3 +1,7 @@
 s= int(input("enter the value for second:"))
 Day= (((s /60)/60)/24)
 print(f"total day for given seconds:{Day}")
+hours=(s/3600)
+print(f"total hours for given second:{hours}")
+minutes=(s/60)
+print(f"total minutes for given second:{minutes}")
