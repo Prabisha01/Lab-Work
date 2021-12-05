@@ -1,8 +1,8 @@
 #Check whether 5 is in list of first 5 natural numbers or not.
 
-number =int(input("enter the number") )
-if number==5:
-    print("number is natural number")
-
+list = [1, 2, 3, 4, 5]
+if 5 in list:
+ print("true")
 else:
-    print("number is not natural number")
+ print("false")
+
