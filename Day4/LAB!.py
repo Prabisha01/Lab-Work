@@ -10,4 +10,4 @@ if ((Year % 400 ==0) or
     print ("The year is leap year")
 
 else:
-    print("The year is not ")
+    print("The year is not leap year ")
