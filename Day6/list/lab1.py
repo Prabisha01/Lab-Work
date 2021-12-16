@@ -3,4 +3,4 @@
 list= [1, 2, 3, 4, 5]
 
 sum = sum(list)
-print("The sum of all items in list{}". format(sum))
+print("The sum of all items in list {}". format(sum))
